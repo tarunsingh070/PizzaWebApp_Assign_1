@@ -1,0 +1,51 @@
+body {
+    background-color: #EADF45;
+}
+
+@media (max-width: 799px){
+    #logo {
+        display: none;
+    }
+}
+
+.pizza-item {
+    margin-bottom: 30px;
+    background-color: #EADF45;
+}
+
+.card {
+    background-color: #FF9524;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-title-text {
+    color: #E33838;
+}
+
+.card-text {
+    color: white;
+}
+
+.logo img {
+    margin-top: -14px;
+    margin-right: 10px;
+}
+
+.order-row {
+    border: 2px solid #E33838;
+    margin-bottom: 1.25em;
+    padding-top: 0.62em;
+    padding-bottom: 0.62em;
+}
+
+.my-5 {
+    text-align: center;
+    color: #E33838;
+}
+
+.btn-remove {
+    margin-bottom: 3vh;
+}
